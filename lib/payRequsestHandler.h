@@ -40,12 +40,12 @@
 // 账号帐户资料
 //更改商户把相关参数后可测试
 
-#define APP_ID          @""               //APPID
+#define APP_ID          @"" //APPID
 #define APP_SECRET      @"" //appsecret
 //商户号，填写商户对应参数
-#define MCH_ID          @""//你的商户号码
+#define MCH_ID          @"" //你的商户号码
 //商户API密钥，填写相应参数
-#define PARTNER_ID      @""//密钥
+#define PARTNER_ID      @"" //密钥
 //支付结果回调页面
 #define NOTIFY_URL      @"http://wxpay.weixin.qq.com/pub_v2/app/app_pay.php"//获取服务器端支付数据地址（商户自定义）
 #define SP_URL          @"http://wxpay.weixin.qq.com/pub_v2/app/app_pay.php"
